@@ -1,0 +1,6 @@
+d:\knoxehdesktop\documents\visual studio 2013\Projects\TCPServerCSharp\TCPServerCSharp\bin\Debug\TCPServerCSharp.exe.config
+d:\knoxehdesktop\documents\visual studio 2013\Projects\TCPServerCSharp\TCPServerCSharp\obj\Debug\TCPServerCSharp.csprojResolveAssemblyReference.cache
+d:\knoxehdesktop\documents\visual studio 2013\Projects\TCPServerCSharp\TCPServerCSharp\bin\Debug\TCPServerCSharp.exe
+d:\knoxehdesktop\documents\visual studio 2013\Projects\TCPServerCSharp\TCPServerCSharp\bin\Debug\TCPServerCSharp.pdb
+d:\knoxehdesktop\documents\visual studio 2013\Projects\TCPServerCSharp\TCPServerCSharp\obj\Debug\TCPServerCSharp.exe
+d:\knoxehdesktop\documents\visual studio 2013\Projects\TCPServerCSharp\TCPServerCSharp\obj\Debug\TCPServerCSharp.pdb
